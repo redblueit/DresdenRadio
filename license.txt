@@ -1,0 +1,32 @@
+StreamPlayer
+
+Lizenzbestimmungen
+==================
+1. Haftungsausschluss
+
+Diese Software wird bereitgestellt "wie sie ist", in der Absicht,
+nützlich zu sein, jedoch ohne jegliche Garantien, Haftungsansprüchen oder sonstigen Bedingungen.
+Die Nutzung erfolgt auf dem alleinigen Risiko des Benutzers. 
+Ferner kann sowohl nicht die Fehlerfreiheit der Software, als auch nicht deren korrekte
+Funktionalität gewährleistet werden.
+Das Programm verfügt über eine automatische Updatefunktion.
+Sie erklären sich damit einverstanden, dass im Zuge dessen eine Verbindung zum Updateserver 
+aufgebaut wird.
+
+
+2. Nutzungsrechte
+
+Sie düfen das Programm ausschließlich zur privaten und nich komerziellen Nutzung verwenden. 
+Eine Verwendung in einer kommerziellen Umgebung erfordert das Einverständnis des Entwicklers.
+Sie sind berechtigt, diese Software unter Angabe der Quelle KOSTENLOS, 
+mit allen Bestandteilen (inklusive dieser Vereinbarung) zu verteilen. 
+Eine Dekompilierung, Manipulation oder andere Veränderung der Software oder Teilen davon ist
+strengstens untersagt und kann im Rahmen des Urhebergesetzes strafrechtlich verfolgt werden.
+
+
+Copyright © 2021 by Sylvio Simann. Alle Rechte vorbehalten.
+https://www.my-web-page.de
+
+
+bass.dll Copyright by https://www.un4seen.com/	
+Bass.Net.dll Copyright by http://www.bass.radio42.com
