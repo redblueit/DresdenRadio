@@ -1,0 +1,2 @@
+1.2
+https://github.com/redblueit/DresdenRadio/blob/main/StreamPlayer.exe
